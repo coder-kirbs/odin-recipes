@@ -1,4 +1,9 @@
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: lighter
+    font-weight: lighter;
 }
+
+h1, h3 {
+    text-align: center;
+}
+
